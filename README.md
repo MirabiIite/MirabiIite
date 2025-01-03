@@ -1,4 +1,4 @@
-## Hi there 👋
+### Rage, rage against the dying of the light.
 
 <!--
 **MirabiIite/MirabiIite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
